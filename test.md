@@ -1,3 +1,5 @@
+<!-- Short Description: This text, tag, or metadata is completely hidden from the reader -->
+
 # 🚀 Markdown Complex Rendering Test Suite
 
 ## 1. Typography & Inline Formatting
