@@ -1,4 +1,4 @@
-<!-- Short Description: This text, tag, or metadata is completely hidden from the reader -->
+<!-- This is another test of the short description but with a varying length -->
 
 # 🚀 Markdown Complex Rendering Test Suite
 
